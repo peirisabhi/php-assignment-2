@@ -1,0 +1,39 @@
+.img{
+    height: 400px !important;
+}
+
+.on-image{
+    position: absolute;
+}
+
+.h1{
+    position: absolute;
+    font-size: 45px;
+    font-weight:800;
+    margin-left: 70px;
+    margin-top: 50px;
+    display: inline-block;
+    
+}
+
+.span{
+    display: inline-block;
+    /*position: absolute;*/
+    font-size: 32px;
+    font-weight: 800;
+    margin-left: 270px;
+    margin-top: 70px;
+}
+
+.bt1{
+    position: absolute !important;
+    margin-top: 250px;
+    margin-left: -280px;
+}
+
+.bt2{
+    /*position: absolute !important;*/
+     margin-top: 250px;
+    margin-left: -50px;
+}
+
